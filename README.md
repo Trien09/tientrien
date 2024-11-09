@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>Chào mừng đến với website của tôi!</h1>
-    <p>Đây là trang web đầu tiên của tôi trên GitHub Pages.</p>
+    <p>Đây là trang web đầu tiên của tôi as.</p>
 </body>
 </html>
